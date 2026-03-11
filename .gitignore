@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+model_files/
+chroma_db/
+.DS_Store
+feature_scaler_final.pkl
+singapore_bird_classifier_final.pth
+*.pth
+*.pkl
